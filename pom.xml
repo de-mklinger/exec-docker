@@ -10,7 +10,7 @@
 
 	<groupId>de.mklinger.commons</groupId>
 	<artifactId>exec-docker</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>bundle</packaging>
 
 	<name>${project.artifactId}</name>
@@ -42,7 +42,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:de-mklinger/exec-docker.git</connection>
 		<developerConnection>scm:git:git@github.com:de-mklinger/exec-docker.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>exec-docker-1.0</tag>
 		<url>https://github.com/de-mklinger/exec-docker</url>
 	</scm>
 
